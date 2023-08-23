@@ -16,11 +16,4 @@ Statepos is an AI-powered point-of-sale software designed to revolutionize the w
 
 - **User-Friendly Interface:** Statepos comes with an intuitive and user-friendly interface that ensures a smooth and hassle-free user experience.
 
-## How to Get Started
 
-To start using Statepos and experience the benefits of AI-powered point-of-sale management, follow these steps:
-
-1. **Clone the Repository:** Clone the Statepos repository to your local machine using the following command:
-
-   ```bash
-   git clone https://github.com/statepos/statepos.git
